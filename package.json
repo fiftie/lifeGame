@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fiftie/express_react_server.git"
+    "url": "git+https://github.com/fiftie/lifeGame.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fiftie/express_react_server/issues"
+    "url": "https://github.com/fiftie/lifeGame/issues"
   },
-  "homepage": "https://github.com/fiftie/express_react_server#readme",
+  "homepage": "https://github.com/fiftie/lifeGame#readme",
   "dependencies": {
     "express": "^4.16.4",
     "pug": "^2.0.3",
