@@ -7,6 +7,7 @@ import { Provider } from 'react-redux';
 import { routerMiddleware } from 'react-router-redux';
 import Routes from './Routes';
 import reducer from './reducer';
+import styled from 'styled-components';
 
 const store = createStore(reducer, applyMiddleware(thunk));
 

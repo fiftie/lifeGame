@@ -5,10 +5,10 @@ import BoradComponent from '../_components/BoardComponent';
 const mapStateToProps = (state, ownProps) => {
   return {
     ...ownProps,
-    firstBoardPieces: state.boardComponent.firstBoardPieces,
-    firstCapturedPieces: state.boardComponent.firstCapturedPieces,
-    lastBoardPieces: state.boardComponent.lastBoardPieces,
-    lastCapturedPieces: state.boardComponent.lastCapturedPieces,
+    // firstBoardPieces: state.boardComponent.firstBoardPieces,
+    // firstCapturedPieces: state.boardComponent.firstCapturedPieces,
+    // lastBoardPieces: state.boardComponent.lastBoardPieces,
+    // lastCapturedPieces: state.boardComponent.lastCapturedPieces,
   };
 };
 
